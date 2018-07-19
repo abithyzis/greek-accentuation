@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
 import unicodedata
 
 from .characters import accent, base, diaeresis, iota_subscript, length
